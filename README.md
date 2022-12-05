@@ -34,8 +34,8 @@ Jupyter Notebook, MS Excel, Tableau
 
 # Conclusion 💡
 
-55.34% People suffering from heart disease.
-Elderly Aged Men are more (50 to 60 Years) and Females are more in 55 to 65 Years Category
+1. 55.34% People suffering from heart disease.
+2. Elderly Aged Men are more (50 to 60 Years) and Females are more in 55 to 65 Years Category
 Males are more prone to heart disease.
 Elderly Aged People are more prone to heart disease.
 People having asymptomatic chest pain have a higher chance of heart disease.
