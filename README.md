@@ -36,10 +36,10 @@ Jupyter Notebook, MS Excel, Tableau
 
 1. 55.34% People suffering from heart disease.
 2. Elderly Aged Men are more (50 to 60 Years) and Females are more in 55 to 65 Years Category
-Males are more prone to heart disease.
-Elderly Aged People are more prone to heart disease.
-People having asymptomatic chest pain have a higher chance of heart disease.
-High number of cholesterol level in people having heart disease.
-Blood Pressure increases between age of 50 to 60 and somehow continue till 70.
-Cholesterol and maximum heart rate Increasing in the age group of 50 60.
-ST depression mostly increases between the age group of 30-40.
+3. Males are more prone to heart disease.
+4. Elderly Aged People are more prone to heart disease.
+5. People having asymptomatic chest pain have a higher chance of heart disease.
+6. High number of cholesterol level in people having heart disease.
+7. Blood Pressure increases between age of 50 to 60 and somehow continue till 70.
+8. Cholesterol and maximum heart rate Increasing in the age group of 50 60.
+9. ST depression mostly increases between the age group of 30-40.
